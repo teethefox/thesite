@@ -82,7 +82,7 @@ audio, canvas, video {display: inline-block;*display:inline;*zoom:1}
 
 blockquote:before, blockquote:after, q:before, q:after {content: '';content: none;}
 
-h1,h2,h3,h4,h5,h6{ color:#343434}
+h1,h2,h3,h4,h5,h6{ color:white}
 
 ::-moz-selection {background: #222222;color:#ffF;text-shadow: none;}
 
@@ -244,7 +244,7 @@ z-index:2;transition: width 0.3s; z-index:1}
 
 .inner-right{ float:right; width:100%; max-width:700px}
 
-.wrapper-inner p{ color:#343434; font-size:13px; line-height:30px; font-weight:400;padding-bottom:20px; font-weight:300}
+.wrapper-inner p{ color:white; font-size:13px; line-height:30px; font-weight:400;padding-bottom:20px; font-weight:300}
 
 /* ==========================================================================
 
@@ -254,7 +254,7 @@ z-index:2;transition: width 0.3s; z-index:1}
 
 .details-content,.about-content,.contact-wrapper{ overflow:hidden}
 
-.details-left header h3,.about-content h3{ color:#343434; margin-top:0}
+.details-left header h3,.about-content h3{ color:white; margin-top:0}
 
 .details-left header h4,.details-left header h5{ font-size:13px; margin-top:0; font-weight:400}
 
@@ -332,7 +332,7 @@ z-index:2;transition: width 0.3s; z-index:1}
 
 .post figure{ margin-bottom:76px}
 
-.post .date{ font-weight:600; font-size:16px; color:#343434}
+.post .date{ font-weight:600; font-size:16px; color:white}
 
 .post .cat-pan a:hover,.post header h3 a:hover{ text-decoration:underline}
 
@@ -348,7 +348,7 @@ z-index:2;transition: width 0.3s; z-index:1}
 
 .comments-reply li figure{ float:left; width:70px; height:70px; background-color:#eeeeee; border-radius:100%; overflow:hidden}
 
-.comments-reply li section{ float:left; padding-left:30px; font-size:13px; line-height:30px; color:#343434;width: 92%;}
+.comments-reply li section{ float:left; padding-left:30px; font-size:13px; line-height:30px; color:white;width: 92%;}
 
 .comments-reply li section .date-pan{ font-size:12px; line-height:13px; padding-bottom:25px}
 
